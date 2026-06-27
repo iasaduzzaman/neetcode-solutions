@@ -10,4 +10,4 @@ public:
         return false;
     }
 };
-//TC -> (nlogn)
+//TC -> O(nlogn)
